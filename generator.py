@@ -1,5 +1,6 @@
 import random
 from quotes import *
+import time
 
 def generate():
     bq = random.choice(bob_quotes)
@@ -10,3 +11,5 @@ def generate():
     print(*quotes)
 
 generate()
+
+time.sleep(5)
