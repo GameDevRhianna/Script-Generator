@@ -7,7 +7,7 @@ henri_quotes = ["Spence, if I wanted to get a second monitor, would I need a sec
                 "Hehehe, I can't believe I'm doing something without my mum knowing!",
                 "The tube isn't for the faint of heart!", "Fuck off.", "Yeah, I don't really keep dark secrets.",
                 "Your secret is safe with me, Kaitlyn.", "Heh, hilarious.", "Thank you, Mr Bomernee TV!"
-                "No, I'm not playing fifa anymore so I'm happi knight.", "Henri Knight!"]
+                "No, I'm not playing fifa anymore so I'm happi knight.", "Henri Knight!", "Yeah, I'm a pretty crazy guy when you get down to it!"]
 
 misc_quotes = ["What, like dark brown colour?", "Hello, I'm Peter Jones Godot!", "It looks like someone's getting distracted.",
                "No, I'm not bloody gay!", "No.", "Yes.", "Goodbye!"]
